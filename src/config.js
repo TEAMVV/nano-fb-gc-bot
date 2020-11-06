@@ -1,5 +1,5 @@
 // The trigger word that precedes most commands and will activate the bot
-exports.trigger = "physics";
+exports.trigger = "nano";
 
 // Bot owner information
 exports.owner = {
