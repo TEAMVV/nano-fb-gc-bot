@@ -21,7 +21,7 @@ exports.bot = {
 
 // Location of the bot repo if automatic GitHub webhook deploys are used
 // (see server.js for details)
-exports.repoPath = "/home/cameron/AssumeZero-Bot/";
+exports.repoPath = "/data/data/com.termux/files/home/nanobot/";
 
 // Determines whether bot grammar is "contextless"
 // i.e. whether the command must match from the start of the string or anywhere within it
@@ -34,7 +34,7 @@ exports.defaultTitle = "Unnamed chat";
 
 // Heroku settings (might need to tweak some things if using another host)
 // App name
-exports.appName = "assume-bot";
+exports.appName = "groupbaba-bot";
 
 // Server URL
 exports.serverURL = `http://${exports.appName}.herokuapp.com`;
@@ -50,7 +50,7 @@ exports.localSleepTime = 3;
 exports.localWakeTime = 9;
 
 // Your desired timezone for displaying times
-exports.timeZone = "America/New_York";
+exports.timeZone = "Asia/Dhaka";
 
 // Time in seconds to ban users for Order 66
 exports.order66Time = 15;
