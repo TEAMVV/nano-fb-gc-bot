@@ -1,5 +1,5 @@
 {
-  "name": "assumezero-bot",
+  "name": "nanobot",
   "version": "2.0.0",
   "description": "A group chat bot that performs a variety of functions.",
   "main": "main.js",
@@ -14,11 +14,11 @@
     "login": "node src/main.js --force-login",
     "test": "node tests/tests.js"
   },
-  "author": "Cameron Bernhardt (AstroCB)",
+  "author": "Mehedi Hasan Ariyan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AstroCB/AssumeZero-Bot"
+    "url": "https://github.com/TEAMVV/nanobot"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
